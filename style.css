@@ -1,0 +1,36 @@
+.icons {
+    float: right;
+    padding: 10px;
+}
+
+#iconsContainer {
+    width: 50%;
+    float: right;
+}
+
+#title {
+    width: 50%;
+    float: left;
+}
+
+header {
+    position: fixed;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    background-color: white;
+    width: 100%;
+    overflow: hidden;
+    height: 75px;
+    top: 0px;
+    right: 5px;
+    left: 5px;
+}
+
+.clearme {
+    clear: both;
+}
+
+#mainContent {
+    padding: 60px;
+}
